@@ -17,6 +17,7 @@ LICENSE: [MIT](./license.md)
 5. [**Команды по совместной работе и обновлению проектов**](5.joint_work.md)
 6. [**Команды по осмотру и сравнению**](6.comparison.md)
 7. [**Команды по отладке**](7.debugging.md)
+8. [**Заключение**](8.useful_resources.md)
 
 ---
 [Git Logo](https://git-scm.com/downloads/logos) by [Jason Long](https://twitter.com/jasonlong) is licensed under the [Creative Commons Attribution 3.0 Unported License](https://creativecommons.org/licenses/by/3.0/).
