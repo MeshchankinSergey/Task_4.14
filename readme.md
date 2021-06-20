@@ -10,7 +10,7 @@ LICENSE: [MIT](./license.md)
 
 1. [**Основы**](1.fundamental.md)
 2. [**Установка**](2.Installation.md)
-3. **Основные команды**
+3. [**Основные команды**](3.1.basic_commands.md)
     1. [**Часть один**](3.1.basic_commands.md)
     2. [**Часть два**](3.2.basic_commands.md)
 4. [**Команды по ветвлению и слиянию**](4.branching.md)
